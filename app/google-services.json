@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88248820774",
+    "firebase_url": "https://extended-ward-167013.firebaseio.com",
+    "project_id": "extended-ward-167013",
+    "storage_bucket": "extended-ward-167013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88248820774:android:e3a8d6851f4f5a0bf1f2e7",
+        "android_client_info": {
+          "package_name": "net.simplifiedcoding.firebasephoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88248820774-h4vesmk9859p6avh8f8g1a8pm86gq6e1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.simplifiedcoding.firebasephoneauth",
+            "certificate_hash": "f20fc614b18084b77b6e53a66cf5c64e93d0c1af"
+          }
+        },
+        {
+          "client_id": "88248820774-qhs44shb6vdqlh8mrug7nb4uafpgsan5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxXqVl9FtbrqibzaBKbLGmDhHBXcqXNKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88248820774-qhs44shb6vdqlh8mrug7nb4uafpgsan5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
