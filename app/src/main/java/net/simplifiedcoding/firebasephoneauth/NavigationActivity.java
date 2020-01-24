@@ -10,7 +10,6 @@ import android.support.design.widget.NavigationView;
 
 
 public class NavigationActivity extends BaseActivity {
-
     private TextView mTextMessage;
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
